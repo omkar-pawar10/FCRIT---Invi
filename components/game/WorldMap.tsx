@@ -7,7 +7,7 @@ import { LayoutDashboard, Layers, Radar, Bot, GraduationCap, Database } from 'lu
 export default function WorldMap() {
   return (
     <div className="w-full max-w-4xl mx-auto py-8 px-4 text-center">
-      <h2 className="text-xl font-bold text-white mb-2">Unified Wealth Intelligence Navigation</h2>
+      <h2 className="text-xl font-bold text-white mb-2">Nivesa Intelligence Navigation</h2>
       <p className="text-xs text-slate-400 mb-6">Access institutional tools and portfolio look-through analytics.</p>
       <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
         <Link href="/" className="p-4 rounded-xl bg-slate-900 border border-slate-800 text-slate-200 hover:text-white flex flex-col items-center gap-2 text-xs">

@@ -70,11 +70,11 @@ export default function HeaderHUD() {
           <div className="flex items-center gap-3 shrink-0">
             <Link href="/" className="flex items-center gap-2.5 group">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-tr from-cyan-600 to-blue-600 flex items-center justify-center font-black text-white text-sm shadow-sm group-hover:brightness-110 transition">
-                UW
+                N
               </div>
               <div className="flex flex-col">
                 <span className="text-sm font-bold text-white tracking-tight flex items-center gap-1.5">
-                  Unified Wealth Hub
+                  Nivesa
                   <span className="text-[10px] px-1.5 py-0.2 rounded bg-slate-800 text-slate-300 border border-slate-700 font-mono hidden md:inline">
                     PRO
                   </span>

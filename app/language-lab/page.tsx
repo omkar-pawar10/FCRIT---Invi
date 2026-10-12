@@ -2,7 +2,7 @@ import { Suspense } from 'react';
 import ChatEducator from '../../components/worlds/ChatEducator';
 
 export const metadata = {
-  title: 'Wealth Assistant | Unified Wealth Hub',
+  title: 'Wealth Assistant | Nivesa',
   description: 'Multilingual conversational wealth educator with strict SEBI-aligned guardrails and regulatory citations.',
 };
 

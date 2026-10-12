@@ -74,7 +74,7 @@ export interface TranslationDictionary {
 
 export const TRANSLATIONS: Record<SupportedLanguage, TranslationDictionary> = {
   en: {
-    appName: "Unified Wealth Hub",
+    appName: "Nivesa",
     tagline: "Institutional Portfolio Look-Through, Exposure Analysis & Multilingual Literacy",
     nav: {
       dashboard: "Overview",
@@ -150,7 +150,7 @@ export const TRANSLATIONS: Record<SupportedLanguage, TranslationDictionary> = {
     },
   },
   hi: {
-    appName: "यूनिफाइड वेल्थ हब",
+    appName: "Nivesa (निवेसा)",
     tagline: "संस्थागत पोर्टफोलियो लुक-थ्रू, एक्सपोज़र विश्लेषण एवं बहुभाषी वित्तीय साक्षरता",
     nav: {
       dashboard: "सिंहावलोकन",
@@ -226,7 +226,7 @@ export const TRANSLATIONS: Record<SupportedLanguage, TranslationDictionary> = {
     },
   },
   mr: {
-    appName: "युनिफाइड वेल्थ हब",
+    appName: "Nivesa (निवेसा)",
     tagline: "संस्थागत पोर्टफोलिओ लुक-थ्रू, एक्सपोजर विश्लेषण व बहुभाषिक वित्तीय साक्षरता",
     nav: {
       dashboard: "आढावा",

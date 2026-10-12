@@ -64,12 +64,12 @@ export default function Sidebar({ onCloseMobile }: SidebarProps) {
           >
             <div className="relative">
               <div className="w-8 h-8 rounded-xl bg-gradient-to-tr from-cyan-400 via-blue-500 to-purple-600 flex items-center justify-center font-black text-white text-xs shadow-[0_0_15px_rgba(6,182,212,0.35)] group-hover:brightness-110 transition">
-                UW
+                N
               </div>
             </div>
             <div className="flex flex-col">
               <span className="text-sm font-bold text-white tracking-tight flex items-center gap-1.5">
-                Unified Wealth
+                Nivesa
                 <span className="text-[9px] font-mono px-1.5 py-0.2 rounded-full bg-white/5 border border-white/10 text-cyan-300">
                   PRO
                 </span>

@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Unified Wealth Hub | Multi-Broker True Exposure & Asset Intelligence',
+  title: 'Nivesa | Multi-Broker True Exposure & Asset Intelligence',
   description:
     'A consent-based wealth platform providing retail investors with one unified look-through across brokers and depositories, overlap concentration analysis, and multilingual education on REITs, InvITs, bonds and gold.',
 };

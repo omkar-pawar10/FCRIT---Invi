@@ -1,4 +1,4 @@
-// Domain types and JSON contracts for Unified Wealth & Educational Hub
+// Domain types and JSON contracts for Nivesa Institutional Hub
 
 export type AssetClass = 'EQUITY' | 'MUTUAL_FUND' | 'REIT' | 'INVIT' | 'BOND' | 'GOLD' | 'CASH';
 

@@ -1,7 +1,7 @@
 import PortfolioTable from '../../components/worlds/PortfolioTable';
 
 export const metadata = {
-  title: 'Holdings & Accounts | Unified Wealth Hub',
+  title: 'Holdings & Accounts | Nivesa',
   description: 'Consolidated view of all direct equities and mutual fund units across brokers and depositories.',
 };
 

@@ -1,7 +1,7 @@
 import EtlVisualizer from '../../components/worlds/EtlVisualizer';
 
 export const metadata = {
-  title: 'Data Normalization Pipeline | Unified Wealth Hub',
+  title: 'Data Normalization Pipeline | Nivesa',
   description: 'Client-side ingestion pipeline showing parsing, validation, normalization, and ISIN resolution.',
 };
 

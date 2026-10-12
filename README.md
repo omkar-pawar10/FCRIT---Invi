@@ -1,4 +1,4 @@
-# Unified Wealth Hub (PRO) - Institutional Phase 1
+# Nivesa (PRO) - Institutional Phase 1
 
 > **An institutional-grade, consent-based wealth intelligence platform giving retail investors a consolidated multi-broker look-through view, uncovering True Exposure (underlying stock overlaps & unallocated asset gaps), and delivering multilingual financial education across REITs, InvITs, bonds, and gold.**
 

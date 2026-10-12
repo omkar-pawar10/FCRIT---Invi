@@ -1,7 +1,7 @@
 import BaseCampConsent from '../../components/worlds/BaseCampConsent';
 
 export const metadata = {
-  title: 'Data Sources & Consent | Unified Wealth Hub',
+  title: 'Data Sources & Consent | Nivesa',
   description: 'Consent-based multi-broker onboarding, e-CAS PDF ingestion, and investor profile selection.',
 };
 
